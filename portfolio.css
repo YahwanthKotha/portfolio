@@ -29,7 +29,7 @@
     font-family: "Roboto";
   }
   .home-section{
-    background-image: url(/neonbackground.jpg);
+    background-image: url(./neonbackground.jpg);
     background-size: cover;
     height: 100vh;
   }
@@ -81,7 +81,7 @@
     border-color: rgb(29, 169, 233);
   }
   .about-section{
-    background-image: url(/neonbackground.jpg);
+    background-image: url(./neonbackground.jpg);
     height: 120vh;
     
   }
@@ -91,7 +91,7 @@
     border-radius: 20px;
   }
   .education-section{
-    background-image: url(/neonbackground.jpg);
+    background-image: url(./neonbackground.jpg);
     background-size: cover;
     
   }
@@ -207,7 +207,7 @@
     }
   }
   .projects-section{
-    background-image: url(/neonbackground.jpg);
+    background-image: url(./neonbackground.jpg);
     background-size: cover;
     
   }
