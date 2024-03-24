@@ -29,7 +29,7 @@
     font-family: "Roboto";
   }
   .home-section{
-    background-image: url(images/neonbackground.jpg);
+    background-image: url(/neonbackground.jpg);
     background-size: cover;
     height: 100vh;
   }
@@ -81,7 +81,7 @@
     border-color: rgb(29, 169, 233);
   }
   .about-section{
-    background-image: url(images/neonbackground.jpg);
+    background-image: url(/neonbackground.jpg);
     height: 120vh;
     
   }
@@ -91,7 +91,7 @@
     border-radius: 20px;
   }
   .education-section{
-    background-image: url(images/neonbackground.jpg);
+    background-image: url(/neonbackground.jpg);
     background-size: cover;
     
   }
@@ -124,7 +124,7 @@
     width: 120px;
   }
   .skills-section{
-    background-image: url(./images/neonbackground.jpg);
+    background-image: url(./neonbackground.jpg);
     height: 100vh;
   }
   .skill{
@@ -207,7 +207,7 @@
     }
   }
   .projects-section{
-    background-image: url(images/neonbackground.jpg);
+    background-image: url(/neonbackground.jpg);
     background-size: cover;
     
   }
@@ -217,7 +217,7 @@
     text-align: center;
   }
   .contact-section{
-    background-image: url(./images/neonbackground.jpg);
+    background-image: url(./neonbackground.jpg);
     height: 70vh;
   }
   .input{
