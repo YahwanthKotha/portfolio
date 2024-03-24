@@ -82,8 +82,7 @@
   }
   .about-section{
     background-image: url(./neonbackground.jpg);
-    height: 120vh;
-    
+    height: 120vh;  
   }
   .image2{
     height: 150px;
@@ -92,8 +91,7 @@
   }
   .education-section{
     background-image: url(./neonbackground.jpg);
-    background-size: cover;
-    
+    background-size: cover;  
   }
   .heading3{
     font-size: 30px;
@@ -208,8 +206,7 @@
   }
   .projects-section{
     background-image: url(./neonbackground.jpg);
-    background-size: cover;
-    
+    background-size: cover; 
   }
   .heading5{
     font-size: 50px;
